@@ -1,0 +1,2 @@
+C:\Users\Dyuga\Desktop\study_labs\evm\lab8\code_lab8\arrays\Debug\arrays.exe
+C:\Users\Dyuga\Desktop\study_labs\evm\lab8\code_lab8\arrays\Debug\arrays.pdb
