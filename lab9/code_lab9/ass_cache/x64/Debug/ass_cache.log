@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Dyuga\Desktop\study_labs\evm\lab9\code_lab9\ass_cache\main.cpp(67,31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ass_cache.vcxproj -> C:\Users\Dyuga\Desktop\study_labs\evm\lab9\code_lab9\ass_cache\x64\Debug\ass_cache.exe
